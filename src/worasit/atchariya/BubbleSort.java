@@ -1,5 +1,11 @@
+/*
+ *  Author: Atchariya Worasit
+ *  ID: 633040605-1
+ *  Sec: 1
+ */
 package worasit.atchariya;
 
+// simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order.
 public class BubbleSort {
     public static void sort(Integer[] array) {
         for (int i = 0; i < array.length - 1; i++) {

@@ -1,3 +1,8 @@
+/*
+ *  Author: Atchariya Worasit
+ *  ID: 633040605-1
+ *  Sec: 1
+ */
 package worasit.atchariya;
 
 public class GnomeSort {
